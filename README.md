@@ -1,7 +1,6 @@
 # Quiz1_3corte
 # Problema de la Mochila Fraccional (Algoritmo Voraz)
 
-## 📘 Descripción
 Un aventurero tiene una mochila que puede soportar hasta 50 kg.  
 En el camino encuentra los siguientes objetos:
 
