@@ -54,3 +54,11 @@ El aventurero debe llevar:
 
 De esta forma obtiene 240 monedas de oro sin exceder la capacidad de 50 kg.
 
+## ¿Cuándo es necesario aplicar un algoritmo voraz?
+
+Un algoritmo voraz es apropiado cuando el problema tiene subestructura óptima, es decir, cada decisión local óptima lleva a una solución global óptima. las decisiones pueden tomarse por pasos independientes, como en la mochila fraccional, árboles de Huffman o álgoritmo de Dijkstra
+
+## ¿Qué limitaciones tiene?
+
+Esto no funciona para la mochila 0/1 es decir cuando no se pueden fraccionar los objetos. También las decisiones locales no siempre garantizan la mejor solución global. Esto solo funciona bien si el problema cumple la propiedad de optimalidad voraz.
+
